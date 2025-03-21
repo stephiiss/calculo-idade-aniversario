@@ -15,7 +15,7 @@ Este é um mini aplicativo web desenvolvido com HTML, CSS e JavaScript. Com ele,
 ## 📌 Como Usar?
 1️⃣ Clone este repositório:
    ```bash
-   git clone https://github.com/stephiiss/calculo-idade-aniversario.git
+   [git clone https://github.com/stephiiss/calculo-idade-aniversario.git](https://github.com/stephiiss/calculo-idade-aniversario.git)
    ```
 2️⃣ Abra o arquivo `index.html` no seu navegador 🖥️
 3️⃣ Escolha sua data de nascimento 📅
